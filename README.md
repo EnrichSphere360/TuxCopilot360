@@ -1,3 +1,5 @@
+Note: Not yet released in public nor public beta etc. Under development; Below is the overview about what We're working on (: Thanks
+
 # Tux Copilot - Your Open-Source AI Copilot
 
 ## Introduction
